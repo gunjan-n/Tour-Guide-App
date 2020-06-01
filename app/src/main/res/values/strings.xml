@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tour Guid App</string>
+
+    <!-- Category name for events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for the Public Places of the city [CHAR LIMIT=20] -->
+    <string name="category_public_places">Public Places</string>
+
+    <!-- Category name for the attractions of the city [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for the restaurants of the city [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="city_palace">City Palace</string>
+    <string name="lake_pichola">Lake Pichola</string>
+    <string name="jagmandir">Jagmandir</string>
+
+    <string name="aravali">Aravali Rooftop Restaurant</string>
+    <string name="madri">Madri Haveli Restaurant</string>
+    <string name="syah">Syah</string>
+
+    <string name="fateh_sagar_lake">Fateh Sagar Lake </string>
+    <string name="sajjangarh">Sajjangarh Palace</string>
+    <string name="eklingji">Eklingji Temple</string>
+
+    <string name="mewar_festival">Mewar Festival</string>
+    <string name="shilpgram_crafts_fair">Shilpgram Crafts Fair</string>
+
+
+</resources>
